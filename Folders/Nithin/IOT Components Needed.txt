@@ -1,0 +1,5 @@
+arduino uno
+breadboard
+buzzer
+jumper wire
+led
